@@ -1,0 +1,10 @@
+button {
+    color: black;
+    background-color: brown;
+    position: fixed;
+    background-position-x: center;
+}
+
+h1 {
+    size: 20%;
+}
